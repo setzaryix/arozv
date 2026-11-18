@@ -146,12 +146,10 @@ These shortcuts operate while the BlindLusion H menu is closed unless stated oth
 
 The in-game **BlindLusion Hotkeys** groups are the authoritative context-sensitive reference. A command may be silent when the current animation does not expose the corresponding native action.
 
-## Support The Project
+## 🤝 Contact And Support
 
-Of course, it is only optional. It's just that bug fixes moving forward will be very slow, or non-existent, if they exceed my own programming skills. Besides, I am already quite happy with what the mod can currently do. And it's 100% playable for me, we probably no need to implement more features only serious bugs if there are any.
-
-* 💬 **Discord:** [Autonomous Republic of Zero-Vis](https://discord.gg/4xGg4gGW9a))
-* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/on1xn)
-* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/on1xn)
+* 💬 **Discord:** [Autonomous Republic of Zero-Vis](https://discord.gg/4xGg4gGW9a)
+* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/setzaryix)
+* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/setzaryix)
 
 ---

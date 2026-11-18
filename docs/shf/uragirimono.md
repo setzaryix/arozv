@@ -3,7 +3,6 @@
 You will probably understand the project name after playing the game.
 
 Uragirimono is an accessibility mod designed to make **SILENT HILL f** playable for blind and visually impaired players while preserving as much of the original gameplay, exploration, combat, atmosphere, and challenge as reasonably possible.
-This is a **Public Test**, not a claim that every part of the game has been fully verified from beginning to end.
 
 ## About SILENT HILL f
 
@@ -84,10 +83,10 @@ Please read them in game by press LB + Back, L1 + D Pad up, or F1 on keyboard to
 
 ---
 
-# 🤝 Contact And Support
+## 🤝 Contact And Support
 
 * 💬 **Discord:** [Autonomous Republic of Zero-Vis](https://discord.gg/4xGg4gGW9a)
-* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/on1xn)
-* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/on1xn)
+* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/setzaryix)
+* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/setzaryix)
 
 ---

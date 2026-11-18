@@ -115,8 +115,4 @@ When you are done editing:
 
 I hope this guide helps everyone who wants to play games using a controller when accessibility mods only support keyboards. Enjoy gaming with your controller! If you have any questions, feel free to send me a private message or contact me via my links.
 
-* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or **[Steam](https://steamcommunity.com/id/on1xn/)**
-
-> **A short note:** contact me through Steam maybe easier. Because I turn it on all the time.
-
 ---

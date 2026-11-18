@@ -83,3 +83,5 @@ As a side note, there are voice packs available in other languages, but they are
 If you strictly prefer male voices, you can also experiment with character packs from popular games like *God of War*, *The Witcher 3*, *Persona 5*, or *Devil May Cry*. Since these use lines taken from the actual voice actors, the quality is guaranteed to be great. However, keep in mind that they might lack the ability to comment on specific weather conditions, spells, or events like the custom AI packs do. AI voice packs simply give authors a lot more freedom to add whatever lines they want.
 
 Alright, enjoy finally hearing your character make some great noise!
+
+---

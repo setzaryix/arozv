@@ -13,6 +13,14 @@ Audio-first gaming guides, accessibility mods, and technical computer resources 
 
 ---
 
+## 🖥️ Software
+
+* **[Moni - FPS monitor](https://github.com/setzaryix/Moni)**
+* **[Multimedia Converter](https://github.com/setzaryix/multimedia-converter)**
+* **[Image Compressor](https://github.com/setzaryix/image-compressor)**
+
+---
+
 ## 🎮 Game Guides
 
 * **[The Elder V: Skyrim Special Edition / Anniversary Edition](skyrim/index.md)**
@@ -28,7 +36,7 @@ Audio-first gaming guides, accessibility mods, and technical computer resources 
 ## 🤝 Contact And Support
 
 * 💬 **Discord:** [Autonomous Republic of Zero-Vis](https://discord.gg/4xGg4gGW9a)
-* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/on1xn)
-* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/on1xn)
+* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/setzaryix)
+* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/setzaryix)
 
 ---

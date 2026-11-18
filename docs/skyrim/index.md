@@ -203,6 +203,7 @@ This included Awesome Follower Tweak, and Nether's Follower Framework. On nexus 
 ## 🤝 Contact And Support
 
 * 💬 **Discord:** [Autonomous Republic of Zero-Vis](https://discord.gg/4xGg4gGW9a)
-* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/on1xn)
-* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/on1xn)
+* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/setzaryix)
+* 🍔 **Buy me Monthly Junk Food:** [Patreon](https://patreon.com/setzaryix)
 
+---

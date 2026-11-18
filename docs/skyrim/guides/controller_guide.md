@@ -216,9 +216,4 @@ If you did, you can easily fix this by rebuilding your hotkeys following the ins
 
 Thanks for reading this long guide. I hope you like it and enjoy playing Skyrim Access without having to touch a keyboard. But don't forget: take your keyboard out for a date. Don't let a girl (your keyboard) cry!
 
-* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or **[Steam](https://steamcommunity.com/id/on1xn/)**
-
-> **A short note:** contact me through Steam maybe easier. Because I turn it on all the time.
-
-
 ---
