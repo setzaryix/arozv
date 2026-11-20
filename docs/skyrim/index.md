@@ -1,4 +1,4 @@
-# Skyrim Guides & Modlist for the Blind by ON1XN
+# Skyrim Guides & Modlist for the Blind
 
 Welcome to my Skyrim archive! I originally created this project as a personal notebook to log my mod setups, configuration tweaks, installation troubleshooting, and general game knowledge, including the link those mods I downloaded outside nexus. While a full backup is great, having a written list is much better for my poor memory. Since these notes help me so much, I figured other blind players might find them useful too.
 

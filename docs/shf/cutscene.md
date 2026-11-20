@@ -1,4 +1,4 @@
-# SILENT HILL f — Cutscene Recaps
+# SILENT HILL f - Cutscene Recaps And Playthrough
 
 *Chapters 1–8 | Draft narrative descriptions*
 

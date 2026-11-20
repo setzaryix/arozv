@@ -1,4 +1,4 @@
-# PC Head Tracking and Voice Type SE: A Mini-Guide for Blind Players by ON1XN
+# PC Head Tracking and Voice Type SE: A Mini-Guide for Blind Players
 
 If you feel like your character is too quiet, even if you aren't exactly a Tsundere type, why is that? Sure, you could roleplay by shouting "aaaah" in your own room, but that can sound a bit awkward, especially when you're playing a female character!  (And the vanilla sounds are ugry)
 

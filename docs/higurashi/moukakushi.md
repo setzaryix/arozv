@@ -1,4 +1,4 @@
-# Moukakushi Project | Higurashi Hou Accessibility Mod By ON1XN
+# Moukakushi Project | Higurashi Hou Accessibility Mod
 
 **Moukakushi** (盲隠し) is an accessibility mod for Higurashi no naku koro ni hou a visual novel on Steam and GOG. Read carefully and find answer for your curious questions.
 

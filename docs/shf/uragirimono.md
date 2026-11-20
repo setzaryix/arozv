@@ -1,4 +1,4 @@
-# Uragirimono Project | SILENT HILL f Accessibility Mod By ON1XN
+# Uragirimono Project | SILENT HILL f Accessibility Mod
 
 You will probably understand the project name after playing the game.
 

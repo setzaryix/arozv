@@ -1,4 +1,4 @@
-# Nekogui (猫喰) | Saya No Uta Accessibility Mod by ON1XN
+# Nekogui (猫喰) | Saya No Uta Accessibility Mod
 
 ## What is Saya no Uta (The Song of Saya)?
 

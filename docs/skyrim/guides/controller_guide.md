@@ -1,4 +1,4 @@
-# Even A Blind Can Control The Skyrim, Controller Guide by ON1XN
+# Even A Blind Can Control The Skyrim, Controller Guide
 
 > ⚠️ **Very Important Note:** To avoid any misunderstanding, you do not need to follow or download anything in this guide if you only want to play the game with a controller. The skyrim access mod already provides full controller support, with only a few minor limitations that will be improved in future updates I believe. This guide focuses on the additions I've made to extend its functionality, particularly for mage playthroughs. And to help my self remember what I did with this. 
 If you're only here for the controller keybinds from default game's keybinds and Skyrim Access, simply jump to the Keybinds section. Once you've got what you need, you can close this page without reading the rest.
