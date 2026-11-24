@@ -14,11 +14,10 @@ The game combines exploration, puzzle solving, melee combat, psychological horro
 
 # Download And Installation
 
-Download the mod here: [Uragirimono Project](https://drive.google.com/drive/folders/1H9rlDb49S9YgLbquQcQ_bnhLvRtxqTTA?usp=sharing)
+Download the mod here: [Uragirimono Project](https://www.nexusmods.com/silenthillf/mods/308)
 
-Two packages are provided.
 
-1. Download the **Uragirimono Bundled** or **Mod Only**
+1. Download the mod zip.
 
 2. Open your SILENT HILL f installation directory.
 
