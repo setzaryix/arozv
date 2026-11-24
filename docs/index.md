@@ -6,6 +6,7 @@ Audio-first gaming guides, accessibility mods, and technical computer resources 
 
 ## 🛠️ Accessibility Mods
 
+* **[ELDEN RING (Grace Kindred Project)](eldenring/gracekindred.md)**
 * **[SILENT HILL f (Uragirimono Project)](shf/uragirimono.md)**
 * **[Higurashi no naku koro ni hou (Moukakushi Project)](higurashi/moukakushi.md)**
 * **[Koikatsu Party (BlindLusion.KK)](koikatsu/BlindLusion.md)**
